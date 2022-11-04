@@ -1,4 +1,4 @@
-<img align="right" height="300em" src="https://raw.githubusercontent.com/gist/f4kielofy/7f4c64c3ccb3e8d3524f87a4a61a31a7/raw/c53da196da92141bddb80ea44f1fb62207cfd131/githubcard.svg"/>
+
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm F4kie</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4kielofy&color=yellow" alt="Profile views" /> </p>
 
@@ -7,6 +7,7 @@
 - 🔭 | Node.JS / Python developer.
 
 ──────────────────────────────────────
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/f4kielofy/7f4c64c3ccb3e8d3524f87a4a61a31a7/raw/c53da196da92141bddb80ea44f1fb62207cfd131/githubcard.svg"/>
 
 
 
